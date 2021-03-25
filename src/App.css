@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+}
+
+.AddTask{
+  display: flex;
+  justify-content: center  !important;
+  align-items: center !important;
+  margin-top: 50px;
+}
+
+.Formulaire{
+  width: 500px !important;
+}
+.deleteBtn{
+  margin-left: 20px;
+}
+
+.List_Task{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin:30px 150px;
+  
+}
+.Task-Card{
+  
+  width: 200px !important ;
+  height: 200px !important ;
+  margin: 30px;
+  padding: 20px 0;
+  border-radius: 25px;
+}
+
+.ButtonCard{
+  display: flex;
+  justify-content: space-around;
+}
+.ButtonCard Button{
+  width: 75px;
+}
+.edit-btn{
+  width:45px;
+}
+.deleteBtn{
+  width:35px;
+}
+
+.Button_Filter button{
+  margin-left: 20px;
+}
